@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/office-employees/static/css/main.5f361e03.chunk.css",
+    "main.js": "/office-employees/static/js/main.47c274bc.chunk.js",
+    "main.js.map": "/office-employees/static/js/main.47c274bc.chunk.js.map",
+    "runtime-main.js": "/office-employees/static/js/runtime-main.8cbb2701.js",
+    "runtime-main.js.map": "/office-employees/static/js/runtime-main.8cbb2701.js.map",
+    "static/js/2.44075a80.chunk.js": "/office-employees/static/js/2.44075a80.chunk.js",
+    "static/js/2.44075a80.chunk.js.map": "/office-employees/static/js/2.44075a80.chunk.js.map",
+    "index.html": "/office-employees/index.html",
+    "precache-manifest.d483be18a2f06c1b1271cf2216e297cb.js": "/office-employees/precache-manifest.d483be18a2f06c1b1271cf2216e297cb.js",
+    "service-worker.js": "/office-employees/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/office-employees/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.44075a80.chunk.js.LICENSE.txt": "/office-employees/static/js/2.44075a80.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/office-employees/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cbb2701.js",
+    "static/js/2.44075a80.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.47c274bc.chunk.js"
+  ]
+}
