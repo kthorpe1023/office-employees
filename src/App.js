@@ -32,7 +32,6 @@ class App extends React.Component {
     handleInputChange = event => {
         // Getting the value and name of the input which triggered the change
         const { name, value } = event.target;
-        console.log(value)
         // Updating the input's state
         this.setState({
           [name]: value,
@@ -60,24 +59,6 @@ render() {
                 occupation={employee.occupation}
                 location={employee.location}
             />); 
-            //code for the dropdown to filter winners and losers
-            // else if (employee.winner===true)
-            // return(<EmployeeList
-            //     winner={this.winner}
-            //     key={employee.id}
-            //     name={employee.name}
-            //     image={employee.image}
-            //     occupation={employee.occupation}
-            //     location={employee.location}
-            // />); else if (employee.winner===false)
-            // return(<EmployeeList
-            //     winner={this.winner}
-            //     key={employee.id}
-            //     name={employee.name}
-            //     image={employee.image}
-            //     occupation={employee.occupation}
-            //     location={employee.location}
-            // />)
         })}
         
     </Wrapper>
